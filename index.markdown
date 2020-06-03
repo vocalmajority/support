@@ -16,7 +16,60 @@
 
 ## Supporting Black- and Minority-Owned Eateries
 
-*Cities included below: Berkeley, CA; Charleston, SC; New York, NY; Oakland, CA; Phoenix, AZ; Richmond, VA; San Antonio, TX; San Diego, CA; San Francisco, CA; Seattle, WA. We will continue adding Black- and minority-owned businesses from other cities.*
+*Cities included below: Atlanta, GA; Berkeley, CA; Charleston, SC; Various Cities, New Jersey; New York, NY; Oakland, CA; Phoenix, AZ; Richmond, VA; San Antonio, TX; San Diego, CA; San Francisco, CA; Seattle, WA. We will continue adding Black- and minority-owned businesses from other cities.*
+
+#### Atlanta, GA
+
+* Popbar
+* Gocha's Breakfast Bar
+* Dat Fire Jerk Chicken
+* Hattie Marie's BBQ
+* Roc South Cuisine
+* Pit Boss BBQ
+* Just Add Honey Tea Shop
+* Big Dave's Cheesesteaks
+* Tassili's Raw Reality Cafe
+* GAS Food Truck
+* Busy Bee Cafe
+* Ann's Snack Bar
+* Chef Rob's Caribbean Cafe
+* Slutty Vegan ATL
+* K & K Soul Food
+* Not As Famous Cookie
+* The Real Milk & Honey
+* Le Petit Marche
+* Twisted Soul Cookhouse & Pours
+* Sweet Auburn Seafood
+* Old Lady Gang Southern Cuisine
+* Ms. Icey's Kitchen & Bar
+* Virgil's Gullah Kitchen & Bar
+* Sublime Donuts
+* Urban Grind
+* B&L Wings
+* Richard's Southern Fried
+* Chicken + Beer
+* Who's Got Soul Cafe
+* Jamrock
+* Atlanta Breakfast Club
+* Doughlicious Vegan
+* Slim & Husky's
+* Big Oak Tavern
+* Desta Ethiopian Kitchen
+* Plant Based Pizzeria
+* The Fill Up Station
+* Krab Queenz ATL
+* My Fair Sweets
+* Tom, Dick & Hank
+* Ray's Southern Foods
+* Southside Chicago BBQ
+* Viva La Vegan ATL
+* Juiceheads ATL
+* The Blaxican
+* Westside Creamery Mobile Dessert Food Truck
+* Fin & Feathers
+* Anna's BBQ
+* Ghion Cultural Hall
+* Clues and Cocktails
 
 #### Berkeley, CA
 
@@ -72,6 +125,36 @@
 * East Side Soul Food
 * Ma Gloria
 * Blue Note Bistro
+
+#### Various Cities, New Jersey
+
+* Ada's Gojjo
+* Simply Southern Cuisine
+* The Juke Joint Soul House
+* Corrine's Place
+* Soul Food Factory
+* Tastey's Gail's Southern Style Soul Food
+* First Republic Lounge
+* Bro-Ritos
+* Paula's Soulfood Cafe
+* Freetown Road Project
+* Carolyn's Soul Food
+* Pimento Grill
+* Cornbread
+* Saveur Creole
+* Mesob Ethiopian
+* Jefferson Cafe and Food Market
+* Jameson's Southern Cooking
+* Vonda's Kitchen
+* Black Swan Espresso
+* Blueberry Cafe Juice Bar & Vegan Grille
+* Nubian Flavor Restaurant
+* The Weekend Spot Restaurant
+* Soul Food Chess House
+* Olaide's Kitchen
+* 2 Much Space
+* Maggie's Southern Kitchen
+* Taste of Flava
 
 #### New York, NY
 
