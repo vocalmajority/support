@@ -1,4 +1,4 @@
-## Supporting Black- and Minority-Owned Businesses
+## Supporting Black- and Minority-Owned Businesses Impacted by Protests
 
 * If you would like to help support black businesses in Minnesota most-impacted, please donate to the <a href="https://abepmpls.org/pimento-relief-fund">Pimento Relief Fund</a>.
 
@@ -12,9 +12,9 @@
 
 * <a href="https://www.instagram.com/p/CA0NX5VBONK/">Buy Black Atlanta</a>: help brown & black businesses damaged by the protests.
 
-## Eateries
+## Supporting Black- and Minority-Owned Eateries
 
-*Cities included below: Berkeley, CA; Charleston, SC; Oakland, CA; San Antonio, TX; San Diego, CA; San Francisco, CA. We will continue adding Black- and minority-owned businesses from other cities.*
+*Cities included below: Berkeley, CA; Charleston, SC; New York, NY; Oakland, CA; Phoenix, AZ; Richmond, VA; San Antonio, TX; San Diego, CA; San Francisco, CA. We will continue adding Black- and minority-owned businesses from other cities.*
 
 #### Berkeley, CA
 
@@ -107,6 +107,32 @@ Please use these resources to find and support Black-owned businesses in New Yor
 * Grandeur
 * Gregory's Gourmet Desserts
 * Home of Chicken & Waffles
+
+#### Phoenix, AZ
+
+* Stacy's Off Da Hook
+* Sweet Magolia Smokehouse
+* The lader + delta
+* Honey Bear's BBQ
+* Blue Seas Express & Catering
+* Papa Joe's Fish n Que
+* Lolo's Chicken & Waffles
+* Mrs. Whites Golden Rule Cafe
+* Cool Vybz Jamaican Restaurant
+* Valley Wings AZ
+* Mingo's Louisiana Kitchen
+* Island Sensation Cuisine
+* Solo's Cafe
+* Abyssinia Restaurant & Cafe
+* Trapp Haus BBQ
+* Oasis Coffee & Tea Shop
+* Monroe's Hot Chicken
+* Caribbean Market Place
+* JJ's Smokehouse
+* Paz Cantina
+* The Breadfruit & Rum Bar
+* ATL Wings
+* Jupiter Rings Wings & More
 
 #### Richmond, VA
 
