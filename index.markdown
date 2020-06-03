@@ -18,6 +18,7 @@ ___
 
 ## Supporting Black- and Minority-Owned Businesses
 
+* A crowd-sourced <a href="https://projects.sfchronicle.com/2020/black-owned-restaurants/">directory of black-owned food businesses</a> that are open right now.
 * <a href="https://docs.google.com/spreadsheets/d/1ExxjRyovIphjX_jtGep0cFQtUkJwqhTC4dLwy3h6uZY/edit#gid=1847215759">Black-Led Organizations in the Bay Area</a>.
 * <a href="https://docs.google.com/document/d/1qpn5fFrG4-FLfGo3cUsiwb7OvDnnL10uOnF50X-1v90/edit">List of black-owned businesses to support</a>.
 
