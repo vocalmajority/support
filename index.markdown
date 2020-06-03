@@ -10,9 +10,14 @@
 
 * <a href="https://www.instagram.com/p/CA0NX5VBONK/">Buy Black Atlanta</a>: help brown & black businesses damaged by the protests.
 
-## Supporting Black- and Minority-Owned Businesses Online
+___
 
+## Supporting Black- and Minority-Owned Businesses
+
+* <a href="https://docs.google.com/spreadsheets/d/1ExxjRyovIphjX_jtGep0cFQtUkJwqhTC4dLwy3h6uZY/edit#gid=1847215759">Black-Led Organizations in the Bay Area</a>.
 * <a href="https://docs.google.com/document/d/1qpn5fFrG4-FLfGo3cUsiwb7OvDnnL10uOnF50X-1v90/edit">List of black-owned businesses to support</a>.
+
+___
 
 ## Supporting Black- and Minority-Owned Eateries
 
