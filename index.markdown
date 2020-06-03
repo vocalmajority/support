@@ -1,5 +1,7 @@
 Return to <a href="https://vocalmajority.github.io/about/">about</a>.
 
+*This list is not comprehensive, but hopefully can act as a starting point. For anybody looking to add an organization that is not already included, please make a pull request on the [github repository](https://github.com/vocalmajority).*
+
 ## Supporting Black- and Minority-Owned Businesses Impacted by Protests
 
 * If you would like to help support black businesses in Minnesota most-impacted, please donate to the <a href="https://abepmpls.org/pimento-relief-fund">Pimento Relief Fund</a>.
