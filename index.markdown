@@ -14,6 +14,8 @@
 
 ## Eateries
 
+*Cities included below: Berkeley, CA; Charleston, SC; Oakland, CA; San Antonio, TX; San Diego, CA; San Francisco, CA. We will continue adding Black- and minority-owned businesses from other cities.*
+
 #### Berkeley, CA
 
 * A Girl Named Pinky
@@ -34,6 +36,47 @@
 * PieTisserie
 * Pinky and Red's
 * Rasa Cafe
+
+#### Charleston, SC
+
+* Hannibal's Kitchen
+* Rodney Scott's BBQ
+* Glow Nail Bar
+* Fresh Future Farm
+* Martha Lou's Kitchen
+* Shisha Ultra Lounge
+* Cane Rhum Bar
+* Kitchen 27
+* Nigel's Good Food
+* One Love Cuisine
+* Nana's Seafood and Soul
+* Juice Bar MC
+* Camme's International Food & Grocery
+* Jonathan Greene Studios
+* Republic Garden & Lounge
+* Cake Bar by Alexis
+* Lady M's Neat Cafe and Catering
+* Taste of the Islands
+* Wide Awake Coffee and Ice Cream
+* Graft Wine Shop & Bar
+* Dave's Carry-Out
+* Dellz
+* Reggae Grill
+* Candi Love's Bakery
+* H & R Sweet Shop
+* MESU
+* Gullah Tours
+* Station 17 Local Grill
+* East Side Soul Food
+* Ma Gloria
+* Blue Note Bistro
+
+#### New York, NY
+
+Please use these resources to find and support Black-owned businesses in New York.
+
+* <a href="https://www.eatokra.com/">EatOkra</a>
+* <a href="http://eboneats.com/?fbclid=IwAR1bCqbMzdiAx1qleQKk4_mb9vy-yiEu7_Vqzq55-yxRF0IOfZSMjZZzILY&fwp_regions_f=new-york">Eboneats</a>
 
 #### Oakland, CA
 
@@ -64,6 +107,79 @@
 * Grandeur
 * Gregory's Gourmet Desserts
 * Home of Chicken & Waffles
+
+#### Richmond, VA
+
+* Fatty Smokes
+* Soul Taco
+* Chef Mamusu's African Cuisine
+* Rotate
+* Vagabond
+* Aunt Jackie's Restaurant
+* Spoonbread Bistro
+
+#### San Antonio, TX
+
+* 4201 Cookie Co.
+* Flour Press
+* Southern Roots Vegan Bakery
+* Mocha Joy Cakes
+* Trinicakes Cupcakery
+* William's Confectionery Crafts
+* The Big Bib BBQ
+* Brooks BBQ & More
+* DeWillie's Bar-B-Q
+* Ed's Smoke-N-Q
+* Go'Shen Point BBQ
+* Harmon's Barbecue
+* Jones Sausage & BBQ House
+* Nelson's BBQ
+* The Purple Pig BBQ
+* Just Dogs 34
+* Loop 107 Burgers, Bakery & More
+* Mark's Outing
+* Jamaica Jamaica Cuisine
+* The Jerk Shack
+* Momma Luvs Soul & Caribbean
+* Mi Roti
+* Real Real Jamaican
+* Alamo City Market
+* Big Mama's Taste of Soul
+* Chatman's Chicken
+* Chi Chi Birds Hot Chicken
+* Datz It, Dat All
+* Gumbo Pot
+* Jacked Potato
+* Ma Harper's Creole Kitchen
+* Mr. A OK's Kitchen
+* Mr. & Mrs. G's Home Cooking
+* Mr. C's Fried Chicken & Waffles
+* Mrs. Kitchen Soul Food Restaurant & Bakery
+* The Rolling Rooster
+* Sauce's Southern Kitchen
+* The South Chicken & Waffles
+* Tony G's Soul Food
+* Wayne's Wings
+* Wingz Waffles & More
+* Wingit 210
+* Sweet Yams
+* Wholesome Eating
+* Rehoboth Eritrean Ethiopian
+* Squeezers
+* SipIt Daiquiris
+* Tank's Pizza
+* Malik's Philly's Phamous Cheesesteaks
+* Bayseas Seafood
+* Bayseas Catfish House
+* Smashin Crab
+* Carmen's De La Calle
+* Binge Kitchen (Vegan/Vegetarian)
+* The ReUp Station (Vegan/Vegetarian)
+* Rooted Soul Food (Vegan/Vegetarian)
+* Southern Roots Vegan Bakery (Vegan/Vegetarian)
+* 500 Vodka
+* Kai-Simone Winery
+* Weathered Souls
 
 #### San Diego, CA
 
