@@ -16,7 +16,7 @@
 
 ## Supporting Black- and Minority-Owned Eateries
 
-*Cities included below: Atlanta, GA; Berkeley, CA; Charleston, SC; Various Cities, New Jersey; New York, NY; Oakland, CA; Phoenix, AZ; Richmond, VA; San Antonio, TX; San Diego, CA; San Francisco, CA; Seattle, WA. We will continue adding Black- and minority-owned businesses from other cities.*
+*Cities included below: Atlanta, GA; Berkeley, CA; Charleston, SC; Minneapolis, MN; Various Cities, New Jersey; New York, NY; Oakland, CA; Phoenix, AZ; Richmond, VA; San Antonio, TX; San Diego, CA; San Francisco, CA; Seattle, WA. We will continue adding Black- and minority-owned businesses from other cities.*
 
 #### Atlanta, GA
 
@@ -125,6 +125,45 @@
 * East Side Soul Food
 * Ma Gloria
 * Blue Note Bistro
+
+#### Minneapolis, MN
+
+* Afro Deli & Grill
+* Soul Bowl
+* Sammy's Avenue Eatery
+* Wholesoul a Lavender & Sage Eatery
+* Breaking Bred
+* Golden Thyme Coffee & Cafe
+* Trio Plant-Based
+* El Norte Kitchen
+* Angelea's Soul Food Kitchen
+* Mama Sheila's
+* Thigh Times Birdhouse
+* Pimento Jamaican Kitchen
+* The Fitz
+* One Fermentary & Taproom
+* Chef Flo-K Foods
+* Wallace Cuisine
+* Wendy's House of SOUL, Inc.
+* Milton's Vittles, Vino, and Beer
+* Cobble Social House
+* B'beri Desserts
+* Mesob Ethiopian Restaurant
+* Ted Cook's 19th Hole Barbecue
+* House of Gristle
+* Fasika Ethiopian Restaurant
+* Limu Coffee
+* Rebecca's Bakery
+* Cheesecake Funk
+* Snelling Cafe
+* PJ Murphy's Bakery
+* Mama Ti's African Kitchen
+* Milah's Royal Bistro
+* Palmer's Bar
+* Tommie's Pizza
+* The Red Sea
+* Shega Foods
+* Addis Ababa Ethiopian Restaurant and Bar
 
 #### Various Cities, New Jersey
 
