@@ -25,7 +25,7 @@ ___
 
 ## Supporting Black- and Minority-Owned Eateries
 
-*Cities included below: Atlanta, GA; Berkeley, CA; Charleston, SC; Minneapolis, MN; Various Cities, New Jersey; New York, NY; Oakland, CA; Phoenix, AZ; Richmond, VA; San Antonio, TX; San Diego, CA; San Francisco, CA; Seattle, WA. We will continue adding Black- and minority-owned businesses from other cities.*
+*Cities included below: Atlanta, GA; Berkeley, CA; Charleston, SC; Various Cities, Hawaii; Minneapolis, MN; Various Cities, New Jersey; New York, NY; Oakland, CA; Phoenix, AZ; Richmond, VA; San Antonio, TX; San Diego, CA; San Francisco, CA; Seattle, WA. We will continue adding Black- and minority-owned businesses from other cities.*
 
 #### Atlanta, GA
 
@@ -134,6 +134,13 @@ ___
 * East Side Soul Food
 * Ma Gloria
 * Blue Note Bistro
+
+#### Various Cities, Hawaii
+
+* Hughley's Southern Cuisine
+* D Green's BBQ
+* JamRock Lounge
+* Southern Grinds
 
 #### Minneapolis, MN
 
