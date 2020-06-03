@@ -16,7 +16,7 @@
 
 ## Supporting Black- and Minority-Owned Eateries
 
-*Cities included below: Berkeley, CA; Charleston, SC; New York, NY; Oakland, CA; Phoenix, AZ; Richmond, VA; San Antonio, TX; San Diego, CA; San Francisco, CA. We will continue adding Black- and minority-owned businesses from other cities.*
+*Cities included below: Berkeley, CA; Charleston, SC; New York, NY; Oakland, CA; Phoenix, AZ; Richmond, VA; San Antonio, TX; San Diego, CA; San Francisco, CA; Seattle, WA. We will continue adding Black- and minority-owned businesses from other cities.*
 
 #### Berkeley, CA
 
