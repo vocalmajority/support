@@ -60,6 +60,15 @@ ___
 
 | Restaurant/Bar | City |
 | ------------- | ------------- |
+| Chakula Eats | Alameda |
+| Dayo Plates | Alameda |
+| Johnathan's Sandwich House | Alameda |
+| Juanita and Maude | Albany |
+| Freddy B's BBQ | Antioch |
+| Mise en Place Catering | Antioch |
+| Southern Express Soul Food | Antioch |
+| Way to Life Foods | Antioch |
+| I am Cafe | Ashland |
 | A Girl Named Pinky | Berkeley |
 | Alchemy Coffee Collective | Berkeley |
 | Anthony’s Cookies | Berkeley |
@@ -78,6 +87,45 @@ ___
 | PieTisserie | Berkeley |
 | Pinky and Red’s | Berkeley |
 | Rasa Cafe | Berkeley |
+| Cafe Capuchino | Burlingame |
+| Buster's Southern BBQ | Calistoga |
+| Back a Yard Caribbean | Campbell |
+| Big Country Kitchen | Concord |
+| Concord Tap House | Concord |
+| Pure Juice & Smoothie Lounge | Concord |
+| Splash Tea | Concord |
+| The Lettuce Inn | Concord |
+| Keith's Chicken and Waffles | Daily City |
+| Red's House | Daily City |
+| Ginger Snap Shots | East Palo Alto |
+| Jonathan's Fish & Chips | East Palo Alto |
+| The Cocktail Chick | East Palo Alto |
+| Crumble & Whisk Patisserie | Emeryville |
+| Hip Hop Juice Box | Emeryville |
+| Minnie Bell's Soul Movement | Emeryville |
+| Rob Ben's | Emeryville |
+| Touch of Soul | Emeryville |
+| Chez Soul Southern Cuisine | Fairfield |
+| Bliss Pops | Foster City |
+| Carmen & Family BBQ | Fremont |
+| Haleluya Ethiopian Gourmet | Fremont |
+| Carm & Family BBQ | Hayward |
+| Everett & Jones Barbeque | Hayward |
+| Family House of Fish & Poultry | Hayward |
+| Golden Safari | Hayward |
+| Hippies Brew | Hayward |
+| Just Potato Salad | Hayward |
+| PLAYT | Hayward |
+| Bodkin Wines | Healdsburg |
+| Wine Country Feasts | Healdsburg |
+| Hunnie Bees Cakes | Hercules |
+| Reve Bistro | Lafayette |
+| The Fusion Food Club (Truck) | Livermore |
+| Reggae Pot | Los Gatos |
+| Backa a Yard Caribbean Grill | Menlo Park |
+| Fenn Coffee | Menlo Park |
+| The Cookout | Mountain View |
+| Brown Estate | Napa |
 | Abesha | Oakland |
 | Addis Ethiopian | Oakland |
 | Alamar Kitchen | Oakland |
@@ -105,6 +153,64 @@ ___
 | Grandeur | Oakland |
 | Gregory’s Gourmet Desserts | Oakland |
 | Home of Chicken & Waffles | Oakland |
+| Horn BBQ | Oakland |
+| Hot Dog Co. | Oakland |
+| It's All Good Bakery | Oakland |
+| James and the Giant Cupcake | Oakland |
+| Jusla Eats | Oakland |
+| Kela Coffee | Oakland |
+| Kendejah (Truck) | Oakland |
+| Kingston 11 Cuisine | Oakland |
+| Kopia Delices | Oakland |
+| Lane-e Kefa Coffee | Oakland |
+| Lena's Soul Food Cafe | Oakland |
+| Little Giant Ice Cream | Oakland |
+| Lois the Pie Queen | Oakland |
+| Malibu's Burgers | Oakland |
+| Mela Bistro | Oakland |
+| Messob Ethiopian Restaurant | Oakland |
+| MexiQ | Oakland |
+| Mi Granny's Kitch | Oakland |
+| Miss Ollie's | Oakland |
+| MLK Cafe | Oakland |
+| Monifa Dayo | Oakland |
+| Montperi Catering | Oakland |
+| New Karibbean City/Level 13 | Oakland |
+| Oeste | Oakland |
+| Pleasure Principle Supperclub | Oakland |
+| Red Bay Coffee | Oakland |
+| Red Door Catering | Oakland |
+| Red Sea | Oakland |
+| Reuschelle's Cheesecakes | Oakland |
+| Roderick's BBQ | Oakland |
+| Rush Bowls | Oakland |
+| Ruth's Buka | Oakland |
+| Selam | Oakland |
+| Shewhat | Oakland |
+| Smokin Woods BBQ | Oakland |
+| Sobre Mesa | Oakland |
+| Souley Vegan | Oakland |
+| Southern Cafe | Oakland |
+| SSO Kitchen/Spirit Slides | Oakland |
+| Sugarsweet | Oakland |
+| Sugar Spot | Oakland |
+| Suya African Grill | Oakland |
+| Teni East Kitchen | Oakland |
+| Super Juiced | Oakland |
+| The Cook and Her Farmer | Oakland |
+| The Hatch | Oakland |
+| Trap Kitchen | Oakland |
+| The Veg Hub | Oakland |
+| Vegan Mob | Oakland |
+| Uncle Willie's Original BBQ and Fish | Oakland |
+| Shampa's Pies | Pacifica |
+| Coconuts | Palo Alto |
+| Thomas Thomas Vineyards | Philo |
+| Tina's Place | Pinole |
+| Omar's Chicken and Waffles | Pittsburg |
+| CJ's BBQ and Fish | Richmond |
+| Misssissippi Catfish | Richmond |
+| Snapper's Seafood | Richmond |
 | Rhythm’s Chicken & Waffles | San Diego |
 | Bowlegged BBQ | San Diego |
 | Street Car Merchants | San Diego |
@@ -158,8 +264,55 @@ ___
 | Teranga | San Francisco |
 | Da’Flora | San Francisco |
 | Massawa Restaurant | San Francisco |
-| Sunset Cantina | San Francisco |
 | Hazel’s Kitchen | San Francisco |
+| Gourmonade | San Francisco |
+| Sunset Cantina | San Francisco |
+| Bella Trattoria | San Francisco |
+| Osteria Bella | San Francisco |
+| Taqueria Los Mayas | San Francisco |
+| Local Kitchen | San Francisco |
+| Tastebuds | San Francisco |
+| Eko Kitchen | San Francisco |
+| Sextant Coffee | San Francisco |
+| Voodoo Love | San Francisco |
+| International Smoke | San Francisco |
+| ZZoul Cafe | San Francisco |
+| Back a Yard Caribbean Grill | San Jose |
+| Gojo Ethiopian | San Jose |
+| Jubba Somali Restaurant | San Jose |
+| Kategna Ethipoian | San Jose |
+| Lunch Box | San Jose |
+| Mudai | San Jose |
+| Walia Ethiopian Cuisine | San Jose |
+| Zeni Ethiopian Restaurant | San Jose |
+| Andreamarie Cakes | San Leandro |
+| I Am Cafe | San Leandro |
+| Kendejah Restaurant | San Leandro |
+| Pinx Catering | San Leandro |
+| Scends | San Leandro |
+| Sistas Soul Food Kafe | San Leandro |
+| Claire's Crunch Cake | San Mateo |
+| Chris' Kitchen Soul Food | San Pablo |
+| Caribbean Spices | San Rafael |
+| Cafe Frida Gallery | Santa Rosa |
+| My Abyssinia | Santa Rosa |
+| Red Rose Catering | Santa Rosa |
+| Sonoma Crust | Santa Rosa |
+| Sonoma Sauces | Santa Rosa |
+| Pack Jack's BBQ | Sebastopol |
+| Corner 103 (Winery) | Sonoma |
+| Flavas Jamaican Grill | South San Francisco |
+| Hippies Brew | Union City |
+| Pure Juice & Smoothie Lounge | Union City |
+| Chef KB | Vallejo |
+| CJ's BBQ and Fish | Vallejo |
+| House of Soul | Vallejo |
+| Hummingbird Bakery & Dessert Bar | Vallejo |
+| Noonie's Place | Vallejo |
+| RedRing Ribs | Vallejo |
+| Ruthies Caribbean Kitchen | Vallejo |
+| Spicy Girl Meal Prep | Vallejo |
+| Yes My Sweet | Vallejo |
 
 ### Georgia
 
@@ -456,3 +609,51 @@ Please use these resources to find and support Black-owned businesses in New Yor
 | Simply Soulful | Seattle |
 | Touga Coffee | Seattle |
 | Wonder Bar | Seattle |
+
+## Supporting Black- and Minority-Owned Book Stores
+
+H/T to Meena Harris (<a href="https://www.instagram.com/meena/">@meena</a>) for this.
+
+| Book Store | City, State |
+| ------------- | ------------- |
+| Underground Books | Sacramento, CA |
+| Eso Won Books | Los Angeles, CA |
+| Marcus Books | Oakland, CA |
+| Smiley's Books | Carson, CA |
+| Ashay By The Bay Children's Bookstore | Vallejo, CA |
+| Matter Design | Denver, CO |
+| MeJah Books | Claymont, DE |
+| Cultured Books | St. Petersburg, FL |
+| Brave + Kind Bookshop | Decatur, GA |
+| For Keeps | Atlanta, GA |
+| The Shrine of the Black Madonna | Atlanta, GA |
+| Medu Bookstore | Atlanta, GA |
+| Black Dot Cultural Center & Bookstore | Lithonia, GA |
+| Book Boutique | Lithonia, GA |
+| 57th Street Books | Chicago, IL |
+| AfriWare Books | Maywood, IL |
+| Semicolon Bookstore & Gallery | Chicago, IL |
+| Brain Lair Books | South Bend, IN |
+| Wild Fig | Lexington, KY |
+| Frugal Bookstore | Roxbury, MA |
+| Source Booksellers | Detroit, MI |
+| Detroit Book City | Southfield, MI |
+| Eyeseeme | University City, MS |
+| The Lit. Bar Bookstore & Chill | Bronx, NY |
+| Sisters Uptown | New York, NY |
+| Revolution Books | New York, NY |
+| Grandma's Place | New York, NY |
+| Cafe Con Libros | Brooklyn, NY |
+| Zawadi Books | Columbus, OH |
+| Fulton Street Books & Coffee | Tulsa, OK |
+| Uncle Bobbie's Coffee & Books | Philadelphia, PA |
+| Amalgam | Philadelphia, PA |
+| Harriett's Bookshop | Philadelphia, PA |
+| Hakim's | Philadelphia, PA |
+| Turning Page | Goose Creek, SC |
+| Pan-African Connection Bookstore, Art Gallery and Resource Center | Dallas, TX |
+| The Dock Bookshop | Fort Worth, TX |
+| Harambee Books & Artworks | Alexandria, VA |
+| Mohagony Books | Washington, DC |
+| Sankofa | Washington, DC |
+| Loyalty Bookstores | Washington, DC |
