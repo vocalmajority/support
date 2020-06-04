@@ -378,6 +378,57 @@ ___
 | Southern Grinds | Kahuku |
 | D Green’s BBQ | Koloa |
 
+### Indiana
+
+| Restaurant/Bar | City |
+| ------------- | ------------- |
+| Bar-B-Q Heaven | Indianapolis |
+| Comida | Indianapolis |
+| Gordon's Milkshake Bar | Indianapolis |
+| Chef Oya's The Trap | Indianapolis |
+| Cleo's Bodega Grocery & Cafe | Indianapolis |
+| Jamaican Breeze Sports Bar & Grill | Indianapolis |
+| Maxine's Chicken & Waffles | Indianapolis |
+| TeeJay's Sweet Tooth | Indianapolis |
+| Michael's Soul Kitchen | Indianapolis |
+| R&R Extreme Wings | Indianapolis |
+| The Missing Brick | Indianapolis |
+| Chef Tia & Co. | Indianapolis |
+| 18th Street Brewery | Indianapolis |
+| Tea's Me Cafe | Indianapolis |
+| Axum Ethiopian | Indianapolis |
+| Backyard BBQ | Indianapolis |
+| Exotic On The Run | Indianapolis |
+| Eat To Live | Indianapolis |
+| His Place Eatery | Indianapolis |
+| Chuck's Coney Island | Indianapolis |
+| JO With The Knife | Indianapolis |
+| Kalakutah | Indianapolis |
+| Papa Bear's | Indianapolis |
+| Cul-De-Sac | Indianapolis |
+| Pi Indy | Indianapolis |
+| Smoove's (Vegan) | Indianapolis |
+| Huge Impact | Indianapolis |
+| Da Blue Lagoon | Indianapolis |
+| King Ribs Bar-B-Q | Indianapolis |
+| Circadian Coffee | Indianapolis |
+| Savor V | Indianapolis |
+| Indy Jars | Indianapolis |
+| Mississippi Belle | Indianapolis |
+| Sweeties Gourmet Treats | Indianapolis |
+| Just Wingin' It | Indianapolis |
+| Williamson Fish Market | Indianapolis |
+| Krab Kingz | Indianapolis |
+| The Healthy Food Cafe | Indianapolis |
+| Hank's Smoked Briskets | Indianapolis |
+| Cretia Cakes | Indianapolis |
+| Off The Hook Fish & More | Indianapolis |
+| Sea Kings | Indianapolis |
+| Black Bowe Bistro & Bakery | Indianapolis |
+| Pull Up Grill | Indianapolis |
+| St. Yared's Ethiopian Cuisine And Coffeehaus | Indianapolis |
+| Big Guys BBQ | Indianapolis |
+
 ### Minnesota 
 
 | Restaurant/Bar | City |
