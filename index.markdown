@@ -18,9 +18,10 @@ ___
 
 ## Supporting Black- and Minority-Owned Businesses
 
-* A crowd-sourced <a href="https://projects.sfchronicle.com/2020/black-owned-restaurants/">directory of black-owned food businesses</a> that are open right now.
+* A crowd-sourced <a href="https://projects.sfchronicle.com/2020/black-owned-restaurants/">directory of black-owned food businesses</a> that are open right now in the Bay Area. All restaurants are also included below.
 * <a href="https://docs.google.com/spreadsheets/d/1ExxjRyovIphjX_jtGep0cFQtUkJwqhTC4dLwy3h6uZY/edit#gid=1847215759">Black-Led Organizations in the Bay Area</a>.
 * <a href="https://docs.google.com/document/d/1qpn5fFrG4-FLfGo3cUsiwb7OvDnnL10uOnF50X-1v90/edit">List of black-owned businesses to support</a> nationally.
+* <a href="https://shop.savorseattletours.com/collections/seattle-solidarity/products/seattle-solidarity-box">Seattle Solidarity Box</a> from Savor Seattle, which features 11 incredible black-owned Seattle area food businesses. All profits from the first 100 boxes sold will be donated to the Black Lives Matter Fund and $5.00 for every subsequent box sold. Your purchase of a box means a direct payment to businesses and to a local organization committed to making a difference. 
 
 ___
 
