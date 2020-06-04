@@ -221,9 +221,9 @@ ___
 | Restaurant/Bar | City |
 | ------------- | ------------- |
 | Hughley’s Southern Cuisine | Aiea |
-| D Green’s BBQ | Koloa |
 | JamRock Lounge | Honolulu |
 | Southern Grinds | Kahuku |
+| D Green’s BBQ | Koloa |
 
 ### Minnesota 
 
