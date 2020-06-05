@@ -511,6 +511,98 @@ Please use these resources to find and support Black-owned businesses in New Yor
 * <a href="https://www.eatokra.com/">EatOkra</a>
 * <a href="http://eboneats.com/?fbclid=IwAR1bCqbMzdiAx1qleQKk4_mb9vy-yiEu7_Vqzq55-yxRF0IOfZSMjZZzILY&fwp_regions_f=new-york">Eboneats</a>
 
+### Oklahoma
+
+| Restaurant/Bar | City |
+| ------------- | ------------- |
+| The Burger | Tulsa |
+| Cajunboil Catering | Tulsa |
+| Dipped by Brandie | Tulsa |
+| Elmer's BBQ | Tulsa |
+| Evelyn's Soul Food | Tulsa |
+| The Freeze | Tulsa |
+| Frios Gourmet Pops | Tulsa |
+| Juicemaker Lounge | Tulsa |
+| Leon's Smoke Shack BBQ | Tulsa |
+| Mrs. T's Kountry Kitchen | Tulsa |
+| Oklahoma Style Bar-B-Q | Tulsa |
+| Oklahoma Toffee Company | Tulsa |
+| Reba Dale's BBQ | Tulsa |
+| Retro Grill & Bar | Tulsa |
+| Rozay's Wingz | Tulsa |
+| Rubicon | Tulsa |
+| Sugar by Charlotte | Tulsa |
+| Sweet Lisa's Cafe | Tulsa |
+| TNT Wangs | Tulsa |
+| Waffle That | Tulsa |
+| Wanda J's Next Generation | Tulsa |
+
+### Oregon
+
+| Restaurant/Bar | City |
+| ------------- | ------------- |
+| 42nd Ave Fish & Chips | Portland |
+| Aberus Ethiopian Restaurant | Portland |
+| Akadi | Portland |
+| Amalfi's | Portland |
+| Assembly Brewing | Portland |
+| Atlas Pizza | Portland |
+| Bete-Lukas Ethiopian Restaurant | Portland |
+| Big Elephant Kitchen | Portland |
+| Bishop and Sons Baked Goods | Portland |
+| Black Star Grill | Portland |
+| Blackstreet Bakery | Portland |
+| Blue Room Beer Garden | Portland |
+| Bole | Portland |
+| Catfish Lane | Portland |
+| Culture | Portland |
+| Clinton's Kitchen | Portland |
+| DB Dessert Company | Portland |
+| Deadstock Coffee | Portland |
+| Dirty Lettuce | Portland |
+| Donut Queen | Portland |
+| Dots Cafe | Portland |
+| Dub's | Portland |
+| E'njoni Cafe | Portland |
+| Enat Kitchen | Portland |
+| Erica's Soul Food | Portland |
+| Fat Cupcake | Portland |
+| Fish Fusion | Portland |
+| Fuel PDX | Portland |
+| Hana's | Portland |
+| Hayat Somali Restaurant | Portland |
+| Ja'das Soulful Eatz | Portland |
+| Jamaica House | Portland |
+| Jamaica Homestyle Cuisine | Portland |
+| Kabba's Kitchen | Portland |
+| Kee's Loaded Kitchen | Portland |
+| Kiss Coffee | Portland |
+| The Mac | Portland |
+| Mando's | Portland |
+| Nacheaux | Portland |
+| Oregon Public House | Portland |
+| Pizzayaki | Portland |
+| Poboyz | Portland |
+| Po'shines Cafe De La Soul | Portland |
+| Reel M Inn | Portland |
+| Reo's Ribs | Portland |
+| Right Bayou Cajun Cuisine | Portland |
+| Rose City Eats | Portland |
+| Sengatera Ethiopian Restaurant | Portland |
+| Spice of Africa | Portland |
+| Southern Kitchen | Portland |
+| Steakadelphia | Portland |
+| Sugar Street Bakery & Bistro | Portland |
+| Swwet Street BBQ | Portland |
+| The Spicy Spoon | Portland |
+| Taste of Soul | Portland |
+| Trap Kitchen PDX | Portland |
+| Try Me! Ethiopian | Portland |
+| Union Burger | Portland |
+| Verajames Kitchen | Portland |
+| Viking Soul Food | Portland |
+| Yaad Style Jamaican Cuisine | Portland |
+
 ### South Carolina
 
 | Restaurant/Bar | City |
